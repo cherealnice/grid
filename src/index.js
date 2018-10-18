@@ -13,7 +13,7 @@ import {
   alignSelf
 } from 'styled-system'
 
-export const Box = styled('div')({
+export const Box = styled.View({
   boxSizing: 'border-box'
 },
   space,
